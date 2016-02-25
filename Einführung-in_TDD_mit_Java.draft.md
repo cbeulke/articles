@@ -93,5 +93,3 @@ Ich kann nun meinen Test laufen lassen (der zur Kompilierung nötige `StringCalc
 ![Roter Balken]
 
 Erste Priorität hat ab sofort immer die Umfärbung des bösen roten Balkens in den guten grünen Balken!
-
-Also an die Arbeit: 
